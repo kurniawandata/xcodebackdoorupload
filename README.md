@@ -25,7 +25,7 @@ Cara kerja program setelah variabel inject dijalankan pada file php yang disisip
 
 Informasi
 ---------
-Saya tidak bertanggung jawab segala akibat yang disebabkan oleh script ini
+Saya tidak bertanggung jawab segala akibat yang disebabkan oleh script ini karena script ini dibuat untuk tujuan ethical hacking
 
 Progammer
 ------- 
