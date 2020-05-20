@@ -30,7 +30,7 @@ Progammer
 Progammer : Kurniawan - xcode.or.id
 
 
-LICENSI
+Licensi
 ------- 
 
 GNU General Public License 
