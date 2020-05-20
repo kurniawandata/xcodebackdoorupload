@@ -19,7 +19,7 @@ Cara kerja program setelah variabel inject dijalankan pada file php yang disisip
 
 1. Pengecekan pada nama variabel cekfile apakah ada isinya atau belum
 2. Jika nama variabel cekfile belum ada isinya maka masuk ke form upload yang dibuat dengan "single quote echo" 
-3. Hacker melakukan upload PHP Shell pada form form upload yang dibuat dengan "single quote echo" dan klik upload maka secara otomatis nama variabel cekfile terisi 
+3. Hacker melakukan upload PHP Shell pada form upload yang dibuat dengan "single quote echo" dan klik upload maka secara otomatis nama variabel cekfile terisi 
 4. Pengecekan kembali apakah nama variabel cekfile sudah ada isinya
 5. Jika sudah ada isinya maka file diupload
 
