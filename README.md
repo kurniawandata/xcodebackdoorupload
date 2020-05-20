@@ -23,6 +23,9 @@ Cara kerja program setelah variabel inject dijalankan pada file php yang disisip
 4. Pengecekan kembali apakah nama variabel cekfile sudah ada isinya
 5. Jika sudah ada isinya maka file diupload
 
+Informasi
+---------
+Saya tidak bertanggung jawab segala akibat yang disebabkan oleh script ini
 
 Progammer
 ------- 
