@@ -8,7 +8,7 @@ X-code Backdoor Upload for Ethical Hacking v0.1
 
 Penggunaan : 
 
-Script backdoor untuk dipasang pada file php yang ada di website target 
+Script backdoor upload untuk dipasang pada file php yang ada di website target 
 
 Contoh :
 
