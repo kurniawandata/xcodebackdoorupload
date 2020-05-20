@@ -17,10 +17,10 @@ http://websitetarget.com/index.php?inject
 
 Cara kerja program setelah variabel inject dijalankan pada file php yang disisipi backdoor
 
-1. Pengecekan pada nama variabel cekvar apakah ada isinya atau belum
-2. Jika nama variabel cekvar belum ada isinya maka masuk ke form upload
+1. Pengecekan pada nama variabel cekfile apakah ada isinya atau belum
+2. Jika nama variabel cekfile belum ada isinya maka masuk ke form upload
 3. Hacker melakukan upload PHP Shell dan klik upload maka secara otomatis nama variabel cekfile terisi 
-4. Pengecekan kembali apakah nama variabel cekvar sudah ada isinya
+4. Pengecekan kembali apakah nama variabel cekfile sudah ada isinya
 5. Jika sudah ada isinya maka file diupload
 
 
