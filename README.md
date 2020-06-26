@@ -36,7 +36,7 @@ Progammer : Kurniawan - xcode.or.id
 Licensi
 ------- 
 
-GNU General Public License 
+GNU General Public License v3
 
 
 
