@@ -47,7 +47,7 @@ Jika ingin donasi untuk Kurniawan
 
 ![alt text](https://kurniawan.xcode.or.id/gofood.png)
 
-![alt text]https://kurniawan.xcode.or.id/gopay.png)
+![alt text](https://kurniawan.xcode.or.id/gopay.png)
 
 Ovo :
 
